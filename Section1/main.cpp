@@ -1,9 +1,9 @@
 #include <iostream>
-// Input and output stream 
+// Input and output stream
 using namespace std;
 
-
-int main() {
+int main()
+{
 
     // std string
     // cout console output
